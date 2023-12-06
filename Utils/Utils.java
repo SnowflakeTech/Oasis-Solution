@@ -1,4 +1,3 @@
-package Java;
 import java.io.*;
 
 public class Utils {
